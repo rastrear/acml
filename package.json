@@ -1,0 +1,37 @@
+{
+  "name": "@rastrear/azul-cargo-mercado-livre",
+  "version": "0.1.0",
+  "description": "Rastreamento de pacotes do Mercado Livre enviados pela Azul Cargo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lint": "eslint .",
+    "lint:fix": "eslint --fix ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rastrear/azul-cargo-mercado-livre.git"
+  },
+  "keywords": [
+    "rastrear",
+    "rastreamento",
+    "azul cargo",
+    "correios",
+    "mercado livre"
+  ],
+  "author": "Micael Souza <micael.souza@outlook.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rastrear/azul-cargo-mercado-livre/issues"
+  },
+  "homepage": "https://github.com/rastrear/azul-cargo-mercado-livre#readme",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.3",
+    "node-fetch": "^2.6.0"
+  },
+  "devDependencies": {
+    "eslint": "^6.8.0",
+    "eslint-config-airbnb-base": "^14.1.0",
+    "eslint-plugin-import": "^2.20.2"
+  }
+}
