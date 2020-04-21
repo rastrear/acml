@@ -1,6 +1,6 @@
 {
-  "name": "@rastrear/azul-cargo-mercado-livre",
-  "version": "0.1.0",
+  "name": "@rastrear/acml",
+  "version": "0.1.1",
   "description": "Rastreamento de pacotes do Mercado Livre enviados pela Azul Cargo",
   "main": "index.js",
   "scripts": {
@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/rastrear/azul-cargo-mercado-livre.git"
+    "url": "git+https://github.com/rastrear/acml.git"
   },
   "keywords": [
     "rastrear",
@@ -22,9 +22,9 @@
   "author": "Micael Souza <micael.souza@outlook.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/rastrear/azul-cargo-mercado-livre/issues"
+    "url": "https://github.com/rastrear/acml/issues"
   },
-  "homepage": "https://github.com/rastrear/azul-cargo-mercado-livre#readme",
+  "homepage": "https://github.com/rastrear/acml#readme",
   "dependencies": {
     "cheerio": "^1.0.0-rc.3",
     "node-fetch": "^2.6.0"
